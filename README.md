@@ -14,7 +14,6 @@ Welcome to our repository! This project explores **unsupervised learning** in ne
 - [File Structure 📂](#file-structure-)
 - [Our Results 📊](#our-results-)
 - [Future Research 🔮](#future-research-)
-- [Contact 🤝](#contact-)
 
 ---
 
