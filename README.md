@@ -92,6 +92,14 @@ Only a fraction of hidden units remain active, ensuring diverse feature detectio
 
 ## Our Extension ✨
 
+>[!TIP]
+>## Paper Presentation
+>This repository includes work related to the paper presentation on "Competing Unsupervised Learning" methods. The presentation covers key concepts, methodologies, and findings in the field of unsupervised learning algorithms that compete or collaborate with each other.
+
+For more details, see the [presentation materials](https://github.com/adamamer20/competing-unsupervised-learning/blob/main/paper-presentation.pdf) in this repository.
+
+
+
 We built upon the original work in several exciting ways:
 
 ### 1. Bayesian Hyperparameter Optimization
